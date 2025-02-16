@@ -13,9 +13,52 @@ accessory_hookup_int_data : shaken_s.addon_hookup
 
 accessory_hookup_int_data : tenken_s.addon_hookup
 {
-	name: "点検整備済ステッカー"
+	name: "点検整備済ステッカー 青"
 	icon: "toyglass/tenken_sticker"
 	part_type: aftermarket
+	look: default
+	
+	price: 1
+	unlock: 0
+	
+	model:	"/vehicle/truck/upgrade/interior_decors/toyglass/tenken_sticker/tenken_sticker.pmd"
+	suitable_for[]: "set_glass"
+}
+
+accessory_hookup_int_data : tenken_s2.addon_hookup
+{
+	name: "点検整備済ステッカー ピンク"
+	icon: "toyglass/tenken_sticker"
+	part_type: aftermarket
+	look: pink
+	
+	price: 1
+	unlock: 0
+	
+	model:	"/vehicle/truck/upgrade/interior_decors/toyglass/tenken_sticker/tenken_sticker.pmd"
+	suitable_for[]: "set_glass"
+}
+
+accessory_hookup_int_data : tenken_s3.addon_hookup
+{
+	name: "点検整備済ステッカー 緑"
+	icon: "toyglass/tenken_sticker"
+	part_type: aftermarket
+	look: green
+	
+	price: 1
+	unlock: 0
+	
+	model:	"/vehicle/truck/upgrade/interior_decors/toyglass/tenken_sticker/tenken_sticker.pmd"
+	suitable_for[]: "set_glass"
+}
+
+accessory_hookup_int_data : tenken_s4.addon_hookup
+{
+	name: "点検整備済ステッカー オレンジ"
+	icon: "toyglass/tenken_sticker"
+	part_type: aftermarket
+	look: orange
 	
 	price: 1
 	unlock: 0
