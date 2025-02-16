@@ -1,0 +1,217 @@
+Header {
+    FormatVersion: 5
+    Source: "Blender 3.6.20 (hash: 46254438b9dd), SCS Blender Tools: 2.4.aeadde03.3"
+    Type: "Model"
+    Name: "glass_set_2.shaken"
+}
+Global {
+    VertexCount: 3
+    TriangleCount: 1
+    MaterialCount: 1
+    PieceCount: 1
+    PartCount: 1
+    BoneCount: 0
+    LocatorCount: 21
+    Skeleton: "glass_set_2.shaken.pis"
+    PieceSkinCount: 0
+}
+Material {
+    Index: 0
+    Alias: "mat_0000.001"
+    Effect: "eut2.none"
+}
+Piece {
+    Index: 0
+    Material: 0
+    VertexCount: 3
+    TriangleCount: 1
+    StreamCount: 4
+    Stream {
+        Format: FLOAT3
+        Tag: "_POSITION"
+        0    ( &3ba3d70a  &be4ccccc  &bc0870f1 )
+        1    ( &bba3d70a  &be4ccccc  &bc0870f1 )
+        2    ( &00000000  &be4ccccc  &3adb30ca )
+    }
+    Stream {
+        Format: FLOAT3
+        Tag: "_NORMAL"
+        0    ( &00000000  &3f800000  &33a22169 )
+        1    ( &00000000  &3f800000  &33a22169 )
+        2    ( &00000000  &3f800000  &33a22169 )
+    }
+    Stream {
+        Format: FLOAT2
+        Tag: "_UV0"
+        AliasCount: 1
+        Aliases: "_TEXCOORD0"
+        0    ( &00000000  &00000000 )
+        1    ( &00000000  &00000000 )
+        2    ( &00000000  &00000000 )
+    }
+    Stream {
+        Format: FLOAT4
+        Tag: "_RGBA"
+        0    ( &00000000  &00000000  &00000000  &3f800000 )
+        1    ( &00000000  &00000000  &00000000  &3f800000 )
+        2    ( &00000000  &00000000  &00000000  &3f800000 )
+    }
+    Triangles {
+        0    ( 2     1     0     )
+    }
+}
+Part {
+    Name: "part1"
+    PieceCount: 1
+    LocatorCount: 21
+    Pieces: 0
+    Locators: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+}
+Locator {
+    Name: "slot_1"
+    Index: 0
+    Position: ( &beb851ec  &3dabbf38  &39c91fa6 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_10"
+    Index: 1
+    Position: ( &3df5c28f  &bdff2ff8  &bce327ed )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_12"
+    Index: 2
+    Position: ( &beb851ec  &bdff1c36  &bcab2c5d )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_13"
+    Index: 3
+    Position: ( &bdf5c28f  &bdff2ff8  &bce327ed )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_14"
+    Index: 4
+    Position: ( &be75c28f  &bdfecdeb  &bcbef3d4 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_2"
+    Index: 5
+    Position: ( &be75c28f  &3dabacf9  &b824f3bb )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_3"
+    Index: 6
+    Position: ( &bdf5c28f  &3dabab75  &bbd35c43 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_4"
+    Index: 7
+    Position: ( &a14cd1a3  &3dac0fb4  &bbf309da )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_5"
+    Index: 8
+    Position: ( &3df5c28f  &3dabab75  &bbd35c43 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_6"
+    Index: 9
+    Position: ( &3e75c28f  &3dabacf9  &b824f3bb )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_7"
+    Index: 10
+    Position: ( &3eb851ec  &3dabbf38  &39c91fa6 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_8"
+    Index: 11
+    Position: ( &3eb851ec  &bdff1c36  &bcab2c5d )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_86"
+    Index: 12
+    Position: ( &bf620664  &3e37abfc  &3d102238 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_87"
+    Index: 13
+    Position: ( &bf7b9ffd  &3e37abfc  &3d102238 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_88"
+    Index: 14
+    Position: ( &bf620664  &3e6adf2f  &3d102239 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_89"
+    Index: 15
+    Position: ( &bf7b9ffd  &3e6adf2f  &3d102239 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_9"
+    Index: 16
+    Position: ( &3e75c28f  &bdfecdeb  &bcbef3d4 )
+    Rotation: ( &23224ebb  &248bba17  &3f7d57e2  &3e13247a )
+    Scale: ( &3f800001  &3f800000  &3f800001 )
+}
+Locator {
+    Name: "slot_96"
+    Index: 17
+    Position: ( &3f620664  &3e37abfc  &3d102238 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_97"
+    Index: 18
+    Position: ( &3f7ba004  &3e37abfc  &3d102238 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_98"
+    Index: 19
+    Position: ( &3f620664  &3e6adf2f  &3d102239 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+Locator {
+    Name: "slot_99"
+    Index: 20
+    Position: ( &3f7ba004  &3e6adf2f  &3d102239 )
+    Rotation: ( &23222ffe  &248bbaa7  &3f7d58e4  &3e13089c )
+    Scale: ( &3f7fffff  &3f7fffff  &3f7ffffe )
+}
+

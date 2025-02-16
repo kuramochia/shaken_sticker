@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/iveco_sway/interior/wall_soft.dds
+addr
+     repeat
+     repeat
+trilinear

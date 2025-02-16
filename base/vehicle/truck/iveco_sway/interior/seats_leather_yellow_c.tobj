@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/iveco_sway/interior/seats_leather_yellow_c.dds
+addr
+     repeat
+     repeat
+trilinear

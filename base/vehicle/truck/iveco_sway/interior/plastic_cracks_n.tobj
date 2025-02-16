@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/iveco_sway/interior/plastic_cracks_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

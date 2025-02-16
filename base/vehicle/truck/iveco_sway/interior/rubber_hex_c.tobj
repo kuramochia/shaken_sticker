@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/iveco_sway/interior/rubber_hex_c.dds
+addr
+     repeat
+     repeat
+trilinear

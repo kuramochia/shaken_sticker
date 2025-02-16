@@ -21,12 +21,15 @@ https://www.jaspa.or.jp/user/mycar/tabid649.html
 ・Scania R, Streamline, 2016 S/R
 ・Volvo FH3, FH4, FH5, FH6
 ・Mercedes MP3, MP4
-・Iveco Stralis, Hi-way
+・Iveco Stralis, Hi-way, Sway
 ・DAF XF
 
 
 ===
 更新履歴
+20250216    v1.3
+- Iveco Sway 追加
+
 20250216    v1.2
 - 点検整備済ステッカーのカラーを追加
   - 実施年によって変わる色を実装していますが、表示している実施年は全て同じです...

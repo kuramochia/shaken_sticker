@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/iveco_sway/interior/plastic_black.dds
+addr
+     repeat
+     repeat
+trilinear
