@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_2016/interior/common_c.dds
+addr
+     repeat
+     repeat
+trilinear

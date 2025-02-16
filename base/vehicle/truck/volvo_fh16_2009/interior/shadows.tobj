@@ -1,0 +1,7 @@
+map 2d
+     /vehicle/truck/volvo_fh16_2009/interior/shadows.dds
+addr
+     clamp_to_edge
+     clamp_to_edge
+trilinear
+color_space linear

@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/iveco_stralis/interior/fabric_001.dds
+addr
+     repeat
+     repeat
+trilinear

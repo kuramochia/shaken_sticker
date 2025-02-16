@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/mercedes_actros_2014/interior/details_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

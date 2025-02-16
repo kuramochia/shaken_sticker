@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_rcab_2009/interior/fabric_walls3.dds
+addr
+     repeat
+     repeat
+trilinear

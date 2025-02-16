@@ -1,0 +1,18 @@
+﻿検査標章（ステッカー）
+
+～国土交通省 自動車検査登録 総合ポータルサイトより～
+新規検査・継続検査（車検）等において、保安基準に適合すると、自動車検査証とともに、ステッカーが交付されます。
+ステッカーは、自動車検査証の有効期間が満了する時期を示すもので、自動車の前面ガラスの内側に前方から見やすいように貼り付けて、表示するように定められています。
+
+https://www.jidoushatouroku-portal.mlit.go.jp/jidousha/kensatoroku/about/inspect/sticker/index.html
+
+サポート車種
+・Scania R, Streamline, 2016 S/R
+・Volvo FH3, FH4, FH5, FH6
+・Mercedes MP3, MP4
+・Iveco Stralis, Hi-way
+・DAF XF
+
+
+20250216    v1.0
+- 新規作成

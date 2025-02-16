@@ -1,0 +1,125 @@
+Header {
+    FormatVersion: 5
+    Source: "Blender 3.6.20 (hash: 46254438b9dd), SCS Blender Tools: 2.4.aeadde03.3"
+    Type: "Model"
+    Name: "shaken_sticker"
+}
+Global {
+    VertexCount: 8
+    TriangleCount: 4
+    MaterialCount: 2
+    PieceCount: 2
+    PartCount: 1
+    BoneCount: 0
+    LocatorCount: 0
+    Skeleton: "shaken_sticker.pis"
+    PieceSkinCount: 0
+}
+Material {
+    Index: 0
+    Alias: "back"
+    Effect: "eut2.dif"
+}
+Material {
+    Index: 1
+    Alias: "front"
+    Effect: "eut2.dif"
+}
+Piece {
+    Index: 0
+    Material: 0
+    VertexCount: 4
+    TriangleCount: 2
+    StreamCount: 4
+    Stream {
+        Format: FLOAT3
+        Tag: "_POSITION"
+        0    ( &bca3d70a  &3ca3d70a  &3123d70a )
+        1    ( &3ca3d70a  &bca3d70a  &b123d70a )
+        2    ( &bca3d70a  &bca3d70a  &b123d70a )
+        3    ( &3ca3d70a  &3ca3d70a  &3123d70a )
+    }
+    Stream {
+        Format: FLOAT3
+        Tag: "_NORMAL"
+        0    ( &00000000  &33314023  &bf800000 )
+        1    ( &00000000  &33314023  &bf800000 )
+        2    ( &00000000  &33314023  &bf800000 )
+        3    ( &00000000  &33314023  &bf800000 )
+    }
+    Stream {
+        Format: FLOAT2
+        Tag: "_UV0"
+        AliasCount: 1
+        Aliases: "_TEXCOORD0"
+        0    ( &3f7fe260  &b983e000 )
+        1    ( &39ece400  &3f80083e )
+        2    ( &3f80083e  &3f7fe261 )
+        3    ( &b983ec00  &39ed0000 )
+    }
+    Stream {
+        Format: FLOAT4
+        Tag: "_RGBA"
+        0    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        1    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        2    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        3    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+    }
+    Triangles {
+        0    ( 2     1     0     )
+        1    ( 1     3     0     )
+    }
+}
+Piece {
+    Index: 1
+    Material: 1
+    VertexCount: 4
+    TriangleCount: 2
+    StreamCount: 4
+    Stream {
+        Format: FLOAT3
+        Tag: "_POSITION"
+        0    ( &3ca3d70a  &bca3d70a  &b123d70a )
+        1    ( &bca3d70a  &3ca3d70a  &3123d70a )
+        2    ( &bca3d70a  &bca3d70a  &b123d70a )
+        3    ( &3ca3d70a  &3ca3d70a  &3123d70a )
+    }
+    Stream {
+        Format: FLOAT3
+        Tag: "_NORMAL"
+        0    ( &00000000  &b3314023  &3f800000 )
+        1    ( &00000000  &b3314023  &3f800000 )
+        2    ( &00000000  &b3314023  &3f800000 )
+        3    ( &00000000  &b3314023  &3f800000 )
+    }
+    Stream {
+        Format: FLOAT2
+        Tag: "_UV0"
+        AliasCount: 1
+        Aliases: "_TEXCOORD0"
+        0    ( &3f800000  &3f800000 )
+        1    ( &00000000  &00000000 )
+        2    ( &00000000  &3f800000 )
+        3    ( &3f800000  &00000000 )
+    }
+    Stream {
+        Format: FLOAT4
+        Tag: "_RGBA"
+        0    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        1    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        2    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+        3    ( &3f7ffd54  &3f7ffd54  &3f7ffd54  &3f7ffd54 )
+    }
+    Triangles {
+        0    ( 2     1     0     )
+        1    ( 1     3     0     )
+    }
+}
+Part {
+    Name: "defaultpart"
+    PieceCount: 2
+    LocatorCount: 0
+    Pieces: 0 1
+    Locators:
+}
+

@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/leather/leather_dots.dds
+addr
+     repeat
+     repeat
+trilinear

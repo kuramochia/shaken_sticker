@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/metal/metal_0.dds
+addr
+     repeat
+     repeat
+trilinear

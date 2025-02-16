@@ -1,0 +1,182 @@
+Header {
+    FormatVersion: 5
+    Source: "Blender 3.6.20 (hash: 46254438b9dd), SCS Blender Tools: 2.4.aeadde03.3"
+    Type: "Model"
+    Name: "glass_set_3.shaken"
+}
+Global {
+    VertexCount: 3
+    TriangleCount: 1
+    MaterialCount: 1
+    PieceCount: 1
+    PartCount: 1
+    BoneCount: 0
+    LocatorCount: 16
+    Skeleton: "glass_set_3.shaken.pis"
+    PieceSkinCount: 0
+}
+Material {
+    Index: 0
+    Alias: "mat_0000.002"
+    Effect: "eut2.none"
+}
+Piece {
+    Index: 0
+    Material: 0
+    VertexCount: 3
+    TriangleCount: 1
+    StreamCount: 4
+    Stream {
+        Format: FLOAT3
+        Tag: "_POSITION"
+        0    ( &3ba3d70a  &be4ccccc  &bc07ea82 )
+        1    ( &bba3d70a  &be4ccccc  &bc07ea82 )
+        2    ( &00000000  &be4ccccc  &3adf6443 )
+    }
+    Stream {
+        Format: FLOAT3
+        Tag: "_NORMAL"
+        0    ( &00000000  &3f800000  &33a22169 )
+        1    ( &00000000  &3f800000  &33a22169 )
+        2    ( &00000000  &3f800000  &33a22169 )
+    }
+    Stream {
+        Format: FLOAT2
+        Tag: "_UV0"
+        AliasCount: 1
+        Aliases: "_TEXCOORD0"
+        0    ( &00000000  &00000000 )
+        1    ( &00000000  &00000000 )
+        2    ( &00000000  &00000000 )
+    }
+    Stream {
+        Format: FLOAT4
+        Tag: "_RGBA"
+        0    ( &00000000  &00000000  &00000000  &3f800000 )
+        1    ( &00000000  &00000000  &00000000  &3f800000 )
+        2    ( &00000000  &00000000  &00000000  &3f800000 )
+    }
+    Triangles {
+        0    ( 2     1     0     )
+    }
+}
+Part {
+    Name: "defaultpart"
+    PieceCount: 1
+    LocatorCount: 16
+    Pieces: 0
+    Locators: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+}
+Locator {
+    Name: "slot_1"
+    Index: 0
+    Position: ( &bea3d70a  &3e183773  &3b99cb92 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_10"
+    Index: 1
+    Position: ( &3e3851ec  &bdf9a627  &bcc2898f )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_12"
+    Index: 2
+    Position: ( &becccccd  &bd9be270  &bc7954e3 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_13"
+    Index: 3
+    Position: ( &be3851ec  &bdf9a627  &bcc2898f )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_14"
+    Index: 4
+    Position: ( &be947ae1  &bdcc8c3d  &bca073eb )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_15"
+    Index: 5
+    Position: ( &bd8f5c29  &be132c9d  &bcdc3ea1 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_16"
+    Index: 6
+    Position: ( &3d8f5c29  &be132c9d  &bcdc3ea1 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_2"
+    Index: 7
+    Position: ( &be5c28f6  &3dff6891  &b9da8186 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_3"
+    Index: 8
+    Position: ( &bde147ae  &3dd27ceb  &bb8a6365 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_4"
+    Index: 9
+    Position: ( &a49f6f02  &3da5ffab  &bbe976a9 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_5"
+    Index: 10
+    Position: ( &3de147ae  &3dd27ceb  &bb8a6365 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_6"
+    Index: 11
+    Position: ( &3e5c28f6  &3dff6891  &b9da8186 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_7"
+    Index: 12
+    Position: ( &3ea3d70a  &3e183773  &3b99cb92 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_8"
+    Index: 13
+    Position: ( &3ecccccd  &bd9be270  &bc7954e3 )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_9"
+    Index: 14
+    Position: ( &3e947ae1  &bdcc8c3d  &bca073eb )
+    Rotation: ( &22478a7b  &248d0dee  &3f7fc00e  &3d34e59e )
+    Scale: ( &3f7fffff  &3f800000  &3f7fffff )
+}
+Locator {
+    Name: "slot_99"
+    Index: 15
+    Position: ( &3f63f224  &3e94f1e1  &3d3e0b40 )
+    Rotation: ( &224fb6bf  &248d0afb  &3f7fbab5  &3d3c4e6a )
+    Scale: ( &3f800000  &3f800000  &3f800000 )
+}
+

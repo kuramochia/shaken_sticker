@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_2016/interior/chrome_c.dds
+addr
+     repeat
+     repeat
+trilinear

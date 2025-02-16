@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_rcab_2009/interior/sew_2.dds
+addr
+     repeat
+     repeat
+trilinear

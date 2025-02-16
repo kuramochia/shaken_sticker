@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/volvo_fh16_2012/interior/wall_fabric_fh_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

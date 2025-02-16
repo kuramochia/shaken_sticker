@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/volvo_fh16_2012/interior/fabric_bed_2.dds
+addr
+     repeat
+     repeat
+trilinear

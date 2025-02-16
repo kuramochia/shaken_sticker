@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/volvo_fh16_2009/interior/leather_seats_01.dds
+addr
+     repeat
+     repeat
+trilinear

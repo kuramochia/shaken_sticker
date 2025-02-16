@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/scania_2016/interior/leather_fine_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

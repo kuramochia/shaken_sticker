@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/share/glass.dds
+addr
+     repeat
+     repeat
+trilinear

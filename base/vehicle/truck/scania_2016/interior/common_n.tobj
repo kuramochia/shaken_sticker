@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/scania_2016/interior/common_n.dds
+addr
+     clamp_to_edge
+     clamp_to_edge
+trilinear
+color_space linear
+usage tsnormal

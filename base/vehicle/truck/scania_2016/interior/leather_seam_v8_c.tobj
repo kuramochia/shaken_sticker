@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_2016/interior/leather_seam_v8_c.dds
+addr
+     repeat
+     clamp_to_edge
+trilinear

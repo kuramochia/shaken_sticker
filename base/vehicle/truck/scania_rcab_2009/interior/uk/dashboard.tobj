@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_rcab_2009/interior/uk/dashboard.dds
+addr
+     repeat
+     repeat
+trilinear

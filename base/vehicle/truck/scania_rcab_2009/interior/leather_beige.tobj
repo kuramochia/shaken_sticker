@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/scania_rcab_2009/interior/leather_beige.dds
+addr
+     repeat
+     repeat
+trilinear

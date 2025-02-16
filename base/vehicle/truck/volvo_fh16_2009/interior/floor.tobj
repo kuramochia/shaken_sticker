@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/volvo_fh16_2009/interior/floor.dds
+addr
+     repeat
+     repeat
+trilinear
