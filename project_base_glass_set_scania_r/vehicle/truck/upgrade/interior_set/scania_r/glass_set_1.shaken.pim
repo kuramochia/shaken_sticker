@@ -11,7 +11,7 @@ Global {
     PieceCount: 1
     PartCount: 1
     BoneCount: 0
-    LocatorCount: 12
+    LocatorCount: 19
     Skeleton: "glass_set_1.shaken.pis"
     PieceSkinCount: 0
 }
@@ -158,9 +158,9 @@ Piece {
 Part {
     Name: "defaultpart"
     PieceCount: 1
-    LocatorCount: 12
+    LocatorCount: 19
     Pieces: 0
-    Locators: 0 1 2 3 4 5 6 7 8 9 10 11
+    Locators: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 }
 Locator {
     Name: "slot_1"
@@ -233,15 +233,64 @@ Locator {
     Scale: ( &3f800003  &3f7fffff  &3f800002 )
 }
 Locator {
-    Name: "slot_9"
+    Name: "slot_86"
     Index: 10
+    Position: ( &bf41b670  &3e6bb385  &3d4cec35 )
+    Rotation: ( &3c59e918  &bbe0b52e  &bf7ec638  &bdc5cf65 )
+    Scale: ( &3f7fffff  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_87"
+    Index: 11
+    Position: ( &bf5b5009  &3e6bb385  &3d4cec35 )
+    Rotation: ( &3c59e918  &bbe0b52e  &bf7ec638  &bdc5cf65 )
+    Scale: ( &3f7fffff  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_88"
+    Index: 12
+    Position: ( &bf41b670  &3e8f7354  &3d4cec36 )
+    Rotation: ( &3c59e918  &bbe0b52e  &bf7ec638  &bdc5cf65 )
+    Scale: ( &3f7fffff  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_89"
+    Index: 13
+    Position: ( &bf5b5009  &3e8f7354  &3d4cec36 )
+    Rotation: ( &3c59e918  &bbe0b52e  &bf7ec638  &bdc5cf65 )
+    Scale: ( &3f7fffff  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_9"
+    Index: 14
     Position: ( &bdc28f5c  &bdf26927  &bd0444e7 )
     Rotation: ( &22d84970  &248c8b26  &3f7ed2f1  &3dc41415 )
     Scale: ( &3f800003  &3f7fffff  &3f800002 )
 }
 Locator {
+    Name: "slot_96"
+    Index: 15
+    Position: ( &3f41b670  &3e6bb385  &3d4cec35 )
+    Rotation: ( &3c6b7a7e  &3b88a20e  &3f7ec53d  &3dc61fc6 )
+    Scale: ( &3f800000  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_97"
+    Index: 16
+    Position: ( &3f5b5010  &3e6bb385  &3d4cec35 )
+    Rotation: ( &3c6b7a7e  &3b88a20e  &3f7ec53d  &3dc61fc6 )
+    Scale: ( &3f800000  &3f800000  &3f800000 )
+}
+Locator {
+    Name: "slot_98"
+    Index: 17
+    Position: ( &3f41b670  &3e8f7354  &3d4cec36 )
+    Rotation: ( &3c6b7a7e  &3b88a20e  &3f7ec53d  &3dc61fc6 )
+    Scale: ( &3f800000  &3f800000  &3f800000 )
+}
+Locator {
     Name: "slot_99"
-    Index: 11
+    Index: 18
     Position: ( &3f5b5010  &3e8f7354  &3d4cec36 )
     Rotation: ( &3c6b7a7e  &3b88a20e  &3f7ec53d  &3dc61fc6 )
     Scale: ( &3f800000  &3f800000  &3f800000 )

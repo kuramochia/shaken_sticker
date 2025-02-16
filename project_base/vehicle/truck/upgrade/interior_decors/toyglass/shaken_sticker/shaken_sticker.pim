@@ -18,12 +18,12 @@ Global {
 Material {
     Index: 0
     Alias: "back"
-    Effect: "eut2.dif"
+    Effect: "eut2.dif.spec"
 }
 Material {
     Index: 1
     Alias: "front"
-    Effect: "eut2.dif"
+    Effect: "eut2.dif.spec"
 }
 Piece {
     Index: 0

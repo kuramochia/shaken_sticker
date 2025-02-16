@@ -10,3 +10,16 @@ accessory_hookup_int_data : shaken_s.addon_hookup
 	model:	"/vehicle/truck/upgrade/interior_decors/toyglass/shaken_sticker/shaken_sticker.pmd"
 	suitable_for[]: "set_glass"
 }
+
+accessory_hookup_int_data : tenken_s.addon_hookup
+{
+	name: "点検整備済ステッカー"
+	icon: "toyglass/tenken_sticker"
+	part_type: aftermarket
+	
+	price: 1
+	unlock: 0
+	
+	model:	"/vehicle/truck/upgrade/interior_decors/toyglass/tenken_sticker/tenken_sticker.pmd"
+	suitable_for[]: "set_glass"
+}

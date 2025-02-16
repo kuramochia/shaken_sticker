@@ -20,7 +20,7 @@ Look {
     Name: "default"
     Material {
         Alias: "back"
-        Effect: "eut2.dif"
+        Effect: "eut2.dif.spec"
         Flags: 0
         AttributeCount: 5
         TextureCount: 1
@@ -56,7 +56,7 @@ Look {
     }
     Material {
         Alias: "front"
-        Effect: "eut2.dif"
+        Effect: "eut2.dif.spec"
         Flags: 0
         AttributeCount: 5
         TextureCount: 1

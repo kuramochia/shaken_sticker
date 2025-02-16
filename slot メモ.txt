@@ -1,0 +1,11 @@
+slot メモ
+
+slot_99
+slot_98 x -0.1
+slot_97 z -0.05
+slot_96 x -0.1 , z -0.05
+
+slot_89
+slot_88 x +0.1
+slot_87 z -0.05
+slot_86 x +0.1 , z -0.05

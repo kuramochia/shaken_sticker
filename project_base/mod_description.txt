@@ -6,6 +6,17 @@
 
 https://www.jidoushatouroku-portal.mlit.go.jp/jidousha/kensatoroku/about/inspect/sticker/index.html
 
+
+点検整備済ステッカー
+
+～一般社団法人日本自動車整備振興会連合会 Web サイトより～
+定期点検整備を実施すると、車両の前面ガラスに「点検整備済ステッカー」が貼付されます。
+これは定期点検整備を確実に実施したクルマであることを証明するものですが、自動車ユーザーに対して、次回の定期点検整備の実施時期を車外から見ても分かるように実施年月も併せて表示しています。
+なお、裏面には定期点検整備を実施した整備事業場名や次回の定期点検整備の実施時期などが記載されています。
+
+https://www.jaspa.or.jp/user/mycar/tabid649.html
+
+
 サポート車種
 ・Scania R, Streamline, 2016 S/R
 ・Volvo FH3, FH4, FH5, FH6
@@ -13,6 +24,12 @@ https://www.jidoushatouroku-portal.mlit.go.jp/jidousha/kensatoroku/about/inspect
 ・Iveco Stralis, Hi-way
 ・DAF XF
 
+
+===
+更新履歴
+20250216    v1.1
+- 点検整備済ステッカーを追加
+- 点検整備済ステッカーを配置するためのスロットを追加
 
 20250216    v1.0
 - 新規作成
