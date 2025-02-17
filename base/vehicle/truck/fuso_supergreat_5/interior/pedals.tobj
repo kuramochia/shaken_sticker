@@ -1,0 +1,5 @@
+map 2d
+     /vehicle/truck/fuso_supergreat_5/interior/pedals.dds
+addr
+     clamp_to_edge
+     clamp_to_edge

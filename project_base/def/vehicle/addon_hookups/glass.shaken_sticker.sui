@@ -28,7 +28,7 @@ accessory_hookup_int_data : tenken_s.addon_hookup
 accessory_hookup_int_data : tenken_s2.addon_hookup
 {
 	name: "点検整備済ステッカー ピンク"
-	icon: "toyglass/tenken_sticker"
+	icon: "toyglass/tenken_sticker2"
 	part_type: aftermarket
 	look: pink
 	
@@ -42,7 +42,7 @@ accessory_hookup_int_data : tenken_s2.addon_hookup
 accessory_hookup_int_data : tenken_s3.addon_hookup
 {
 	name: "点検整備済ステッカー 緑"
-	icon: "toyglass/tenken_sticker"
+	icon: "toyglass/tenken_sticker3"
 	part_type: aftermarket
 	look: green
 	
@@ -56,7 +56,7 @@ accessory_hookup_int_data : tenken_s3.addon_hookup
 accessory_hookup_int_data : tenken_s4.addon_hookup
 {
 	name: "点検整備済ステッカー オレンジ"
-	icon: "toyglass/tenken_sticker"
+	icon: "toyglass/tenken_sticker4"
 	part_type: aftermarket
 	look: orange
 	

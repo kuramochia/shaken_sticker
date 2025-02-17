@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/man_tgx_2020/interior/alcantara_n.dds
+addr
+     repeat
+     repeat
+trilinear

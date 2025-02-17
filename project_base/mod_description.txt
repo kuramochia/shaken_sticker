@@ -23,10 +23,15 @@ https://www.jaspa.or.jp/user/mycar/tabid649.html
 ・Mercedes MP3, MP4
 ・Iveco Stralis, Hi-way, Sway
 ・DAF XF
-
+・MAN TGX 2020
+・ふそう スパグレV
 
 ===
 更新履歴
+20250217    v1.4
+- ふそう スパグレV、Man TGX 2020 追加
+- 点検整備済ステッカーのアイコンをカラーに併せて変更
+
 20250216    v1.3
 - Iveco Sway 追加
 

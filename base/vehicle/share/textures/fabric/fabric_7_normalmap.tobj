@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/share/textures/fabric/fabric_7_normalmap.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

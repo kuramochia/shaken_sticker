@@ -1,0 +1,7 @@
+map 2d
+     /vehicle/truck/fuso_supergreat_5/interior/leather_fine_n.dds
+addr
+     repeat
+     repeat
+color_space linear
+usage tsnormal

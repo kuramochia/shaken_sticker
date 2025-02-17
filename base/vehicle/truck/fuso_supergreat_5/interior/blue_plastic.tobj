@@ -1,0 +1,5 @@
+map 2d
+     /vehicle/truck/fuso_supergreat_5/interior/blue_plastic.dds
+addr
+     clamp_to_edge
+     clamp_to_edge

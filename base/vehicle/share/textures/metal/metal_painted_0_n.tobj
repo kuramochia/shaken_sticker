@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/share/textures/metal/metal_painted_0_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal
