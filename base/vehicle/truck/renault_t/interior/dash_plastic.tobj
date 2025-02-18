@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/dash_plastic.dds
+addr
+     repeat
+     repeat
+trilinear

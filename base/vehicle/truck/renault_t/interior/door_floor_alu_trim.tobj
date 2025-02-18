@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/door_floor_alu_trim.dds
+addr
+     repeat
+     repeat
+trilinear

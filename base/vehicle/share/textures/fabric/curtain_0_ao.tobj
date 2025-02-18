@@ -1,0 +1,7 @@
+map 2d
+     /vehicle/share/textures/fabric/curtain_0_ao.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear

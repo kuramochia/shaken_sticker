@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/share/textures/carpet/carpet_4_normalmap.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

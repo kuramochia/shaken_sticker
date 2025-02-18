@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_xf/interior/plastic_dark_cheap.dds
+addr
+     repeat
+     repeat
+trilinear

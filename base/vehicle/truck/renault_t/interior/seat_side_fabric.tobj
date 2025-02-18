@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/seat_side_fabric.dds
+addr
+     repeat
+     repeat
+trilinear

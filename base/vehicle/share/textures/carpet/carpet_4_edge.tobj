@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/carpet/carpet_4_edge.dds
+addr
+     clamp_to_edge
+     repeat
+trilinear

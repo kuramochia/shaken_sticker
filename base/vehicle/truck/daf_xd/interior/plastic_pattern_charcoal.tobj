@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_xd/interior/plastic_pattern_charcoal.dds
+addr
+     repeat
+     repeat
+trilinear

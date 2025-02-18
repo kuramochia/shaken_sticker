@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/daf_xf/interior/plastic_dark_cheap_n.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/rubber/rubber_2.dds
+addr
+     repeat
+     repeat
+trilinear

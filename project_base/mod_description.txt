@@ -22,12 +22,18 @@ https://www.jaspa.or.jp/user/mycar/tabid649.html
 ・Volvo FH3, FH4, FH5, FH6
 ・Mercedes MP3, MP4
 ・Iveco Stralis, Hi-way, Sway
-・DAF XF
-・MAN TGX 2020
+・DAF XF105, XF, NGD, XD   
+・MAN TGX Euro5, TGX 2020
+・Renault Magnum,Premium, T
 ・ふそう スパグレV
 
 ===
 更新履歴
+20250218    v1.5
+- Renault T, Premium, Magnum 追加
+- DAF XD, NGD, XF105 追加
+- MAN TGX Euro5 追加
+
 20250217    v1.4
 - ふそう スパグレV、Man TGX 2020 追加
 - 点検整備済ステッカーのアイコンをカラーに併せて変更

@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/renault_trucks_sign.dds
+addr
+     clamp_to_edge
+     clamp_to_edge
+trilinear

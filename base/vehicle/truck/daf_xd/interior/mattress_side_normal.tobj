@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/truck/daf_xd/interior/mattress_side_normal.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear
+usage tsnormal

@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/carpet/carpet_5.dds
+addr
+     repeat
+     repeat
+trilinear

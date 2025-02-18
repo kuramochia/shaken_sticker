@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_xf/interior/fabric_gray.dds
+addr
+     repeat
+     repeat
+trilinear

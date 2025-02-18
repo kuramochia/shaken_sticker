@@ -1,0 +1,8 @@
+map 2d
+     /vehicle/share/textures/carpet/carpet_4_edge_normalmap.dds
+addr
+     clamp_to_edge
+     repeat
+trilinear
+color_space linear
+usage tsnormal

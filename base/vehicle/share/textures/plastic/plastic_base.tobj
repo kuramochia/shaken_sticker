@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/plastic/plastic_base.dds
+addr
+     repeat
+     repeat
+trilinear

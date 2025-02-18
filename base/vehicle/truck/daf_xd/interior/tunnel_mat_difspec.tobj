@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_xd/interior/tunnel_mat_difspec.dds
+addr
+     repeat
+     repeat
+trilinear

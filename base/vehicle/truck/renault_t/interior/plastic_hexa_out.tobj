@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/plastic_hexa_out.dds
+addr
+     repeat
+     repeat
+trilinear

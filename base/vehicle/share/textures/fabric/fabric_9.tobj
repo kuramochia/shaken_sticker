@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/share/textures/fabric/fabric_9.dds
+addr
+     repeat
+     repeat
+trilinear

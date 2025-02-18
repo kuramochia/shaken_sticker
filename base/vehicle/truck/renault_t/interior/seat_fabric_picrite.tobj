@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_t/interior/seat_fabric_picrite.dds
+addr
+     repeat
+     repeat
+trilinear

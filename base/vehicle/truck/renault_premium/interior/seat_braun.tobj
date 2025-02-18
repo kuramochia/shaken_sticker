@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/renault_premium/interior/seat_braun.dds
+addr
+     repeat
+     repeat
+trilinear

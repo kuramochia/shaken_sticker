@@ -1,0 +1,7 @@
+map 2d
+     /vehicle/truck/renault_t/interior/ao.dds
+addr
+     repeat
+     repeat
+trilinear
+color_space linear

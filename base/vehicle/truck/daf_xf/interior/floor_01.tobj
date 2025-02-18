@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_xf/interior/floor_01.dds
+addr
+     repeat
+     repeat
+trilinear

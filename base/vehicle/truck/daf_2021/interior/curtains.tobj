@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/daf_2021/interior/curtains.dds
+addr
+     repeat
+     repeat
+trilinear
