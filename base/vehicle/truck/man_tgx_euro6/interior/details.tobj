@@ -1,0 +1,6 @@
+map 2d
+     /vehicle/truck/man_tgx_euro6/interior/details.dds
+addr
+     clamp_to_edge
+     clamp_to_edge
+trilinear
